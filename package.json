@@ -1,0 +1,24 @@
+{
+  "name": "projeto-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Projeto0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevWallaceSv/Projeto0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevWallaceSv/Projeto0/issues"
+  },
+  "homepage": "https://github.com/DevWallaceSv/Projeto0#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
